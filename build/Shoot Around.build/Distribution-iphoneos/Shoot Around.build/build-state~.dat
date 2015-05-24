@@ -1,0 +1,407 @@
+TShoot Around
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004A8B68040000000000000110
+t1250650116
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A76573C00000000000000EB
+t1249269564
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A76555800000000002E0B30
+t1249269080
+s3017520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A76552E0000000000000A22
+t1249269038
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7658A1000000000000007D
+t1249269921
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/AButton.png
+c000000004AAD8D6F000000000000089E
+t1252887919
+s2206
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/BButton.png
+c000000004AAD8D4800000000000007AF
+t1252887880
+s1967
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.h
+c000000004AB53F7A00000000000002D0
+t1253392250
+s720
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m
+c000000004AB5617A0000000000000752
+t1253400954
+s1874
+i"MyScrollView.h"
+i"Shoot_AroundViewController.h"
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.h
+c000000004AB407C800000000000001F1
+t1253312456
+s497
+i<UIKit/UIKit.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m
+c000000004AB407CE000000000000038B
+t1253312462
+s907
+i"Shoot_AroundAppDelegate.h"
+i"Shoot_AroundViewController.h"
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.h
+c000000004AB842980000000000000C37
+t1253589656
+s3127
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m
+c000000004AB94BCE0000000000004A9F
+t1253657550
+s19103
+i"Shoot_AroundViewController.h"
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Crosshair.png
+c000000004AAEE67E0000000000000112
+t1252976254
+s274
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Default.png
+c000000004AB41431000000000001B395
+t1253315633
+s111509
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Fire.png
+c000000004AB511A20000000000000246
+t1253380514
+s582
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Frame.png
+c000000004AABFF0900000000000011C0
+t1252785929
+s4544
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameGreen.png
+c000000004AB663F200000000000011D7
+t1253467122
+s4567
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameLandscape.png
+c000000004AAF050E0000000000001262
+t1252984078
+s4706
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameRed.png
+c000000004AB663E900000000000011CD
+t1253467113
+s4557
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Icon.png
+c000000004AAD6FEB0000000000000262
+t1252880363
+s610
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Laser1.caf
+c000000004AB50BEE000000000000678A
+t1253379054
+s26506
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib
+c000000004AAB09780000000000002485
+t1252723064
+s9349
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileLeft.png
+c000000004AAD4A5200000000000000C0
+t1252870738
+s192
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileRight.png
+c000000004AAD4A5200000000000000BC
+t1252870738
+s188
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot Around Title Screen.png
+c000000004AAD71CB0000000000000F2A
+t1252880843
+s3882
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib
+c000000004AB802E3000000000000FB40
+t1253573347
+s64320
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_Around_Prefix.pch
+c000000004AAB097800000000000000C1
+t1252723064
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app.dSYM
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/AButton.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/BButton.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Crosshair.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Default.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Fire.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Frame.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/FrameGreen.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/FrameLandscape.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/FrameRed.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Icon.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Info.plist
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Laser1.caf
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/MainWindow.nib
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/MissileLeft.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/MissileRight.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/PkgInfo
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Shoot Around
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Shoot Around Title Screen.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Shoot_AroundViewController.nib
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/iTunesArtwork.png
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot Around.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/iTunesArtwork.png
+c000000004AB94EF90000000000000D34
+t1253658361
+s3380
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m
+c000000004AAB09780000000000000167
+t1252723064
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-finegnxqliogdlafsosvkoccrhuv/Shoot_Around_Prefix.pch.gch
+t2
+s0
+
+NShoot_Around-Info.plist
+c000000004AB954B400000000000003DC
+t1253659828
+s988
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275352689#275352689#0(167"[BEROR]CodeSign error: Certificate identity 'iPhone Distribution: Yvette Testut' appears more than once in the keychain. The codesign tool requires there only be one.1(4@159"CodeSign error: Certificate identity 'iPhone Distribution: Yvette Testut' appears more than once in the keychain. The codesign tool requires there only be one.275352689#18446744073709551615#0#0(1@0"0(0#1#0"4300882208#0"0#
+
+CCompileC "build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Shoot Around.build/Distribution-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib"
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/AButton.png" AButton.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/BButton.png" BButton.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Crosshair.png" Crosshair.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Fire.png" Fire.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Frame.png" Frame.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/FrameGreen.png" FrameGreen.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/FrameLandscape.png" FrameLandscape.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/FrameRed.png" FrameRed.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/MissileLeft.png" MissileLeft.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/MissileRight.png" MissileRight.png
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Shoot Around Title Screen.png" "Shoot Around Title Screen.png"
+r0
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/iTunesArtwork.png" iTunesArtwork.png
+r0
+
+CCpResource "build/Distribution-iphoneos/Shoot Around.app/Laser1.caf" Laser1.caf
+r0
+
+CCpResource "build/Distribution-iphoneos/Shoot Around.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app.dSYM" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Shoot Around"
+r0
+
+CLd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Shoot Around" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app/Info.plist" Shoot_Around-Info.plist
+r0
+
+CProcessPCH /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-finegnxqliogdlafsosvkoccrhuv/Shoot_Around_Prefix.pch.gch Shoot_Around_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Distribution-iphoneos/Shoot Around.app"
+r0
+

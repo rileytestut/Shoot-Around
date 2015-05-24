@@ -1,0 +1,649 @@
+TShoot Around
+v7
+r0
+t275490495.034159
+cCheck dependencies
+cCpResource "build/Release-iphoneos/Shoot Around.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Info.plist" Shoot_Around-Info.plist
+cCompileXIB "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib"
+cCompileXIB "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib"
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Frame.png" Frame.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileRight.png" MissileRight.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileLeft.png" MissileLeft.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/AButton.png" AButton.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/BButton.png" BButton.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Icon.png" Icon.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around Title Screen.png" "Shoot Around Title Screen.png"
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Crosshair.png" Crosshair.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameLandscape.png" FrameLandscape.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Default.png" Default.png
+cCpResource "build/Release-iphoneos/Shoot Around.app/Laser1.caf" Laser1.caf
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Fire.png" Fire.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameGreen.png" FrameGreen.png
+cCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameRed.png" FrameRed.png
+cCopyPlistFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Entitlements.plist" Entitlements.plist
+cProcessPCH /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch.gch Shoot_Around_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/Riley/Library/MobileDevice/Provisioning Profiles/27B53AF4-16E5-4A12-A8A8-A2CE1EA412E8.mobileprovision" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004A8B68040000000000000110
+t1250650116
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004A76573C00000000000000EB
+t1249269564
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A76555800000000002E0B30
+t1249269080
+s3017520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A76552E0000000000000A22
+t1249269038
+s2594
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A7658A1000000000000007D
+t1249269921
+s125
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/AButton.png
+c000000004AAD8D6F000000000000089E
+t1252887919
+s2206
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/BButton.png
+c000000004AAD8D4800000000000007AF
+t1252887880
+s1967
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.h
+c000000004AB53F7A00000000000002D0
+t1253392250
+s720
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m
+c000000004AB5617A0000000000000752
+t1253400954
+s1874
+i"MyScrollView.h"
+i"Shoot_AroundViewController.h"
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.h
+c000000004AB407C800000000000001F1
+t1253312456
+s497
+i<UIKit/UIKit.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m
+c000000004AB407CE000000000000038B
+t1253312462
+s907
+i"Shoot_AroundAppDelegate.h"
+i"Shoot_AroundViewController.h"
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.h
+c000000004AB842980000000000000C37
+t1253589656
+s3127
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m
+c000000004ABB6F3C0000000000004BA4
+t1253797692
+s19364
+i"Shoot_AroundViewController.h"
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Crosshair.png
+c000000004AAEE67E0000000000000112
+t1252976254
+s274
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Default.png
+c000000004AB41431000000000001B395
+t1253315633
+s111509
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Entitlements.plist
+c000000004ABAA4D700000000000000E1
+t1253745879
+s225
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Fire.png
+c000000004AB511A20000000000000246
+t1253380514
+s582
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Frame.png
+c000000004AABFF0900000000000011C0
+t1252785929
+s4544
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameGreen.png
+c000000004AB663F200000000000011D7
+t1253467122
+s4567
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameLandscape.png
+c000000004AAF050E0000000000001262
+t1252984078
+s4706
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameRed.png
+c000000004AB663E900000000000011CD
+t1253467113
+s4557
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Icon.png
+c000000004AB958280000000000000D34
+t1253660712
+s3380
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Laser1.caf
+c000000004AB50BEE000000000000678A
+t1253379054
+s26506
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib
+c000000004AAB09780000000000002485
+t1252723064
+s9349
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileLeft.png
+c000000004AAD4A5200000000000000C0
+t1252870738
+s192
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileRight.png
+c000000004AAD4A5200000000000000BC
+t1252870738
+s188
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot Around Title Screen.png
+c000000004AAD71CB0000000000000F2A
+t1252880843
+s3882
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib
+c000000004AB802E3000000000000FB40
+t1253573347
+s64320
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_Around_Prefix.pch
+c000000004AAB097800000000000000C1
+t1252723064
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app.dSYM
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/AButton.png
+t1253797693
+s1634
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/BButton.png
+t1253797693
+s1431
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Crosshair.png
+t1253797693
+s183
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Default.png
+t1253797694
+s95208
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Entitlements.plist
+t1253797693
+s62
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Fire.png
+t1253797693
+s427
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Frame.png
+t1253797693
+s1652
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameGreen.png
+t1253797693
+s1670
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameLandscape.png
+t1253797693
+s2060
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameRed.png
+t1253797693
+s1670
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Icon.png
+t1253797693
+s3134
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Info.plist
+t1253797692
+s717
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Laser1.caf
+t1253797693
+s26506
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MainWindow.nib
+t1253797692
+s1114
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileLeft.png
+t1253797693
+s188
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileRight.png
+t1253797693
+s179
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/PkgInfo
+t1253797692
+s8
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/ResourceRules.plist
+t1253797692
+s485
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around Title Screen.png
+t1253797693
+s1543
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot_AroundViewController.nib
+t1253797693
+s6566
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision
+t1253797695
+s7169
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o
+t1253797695
+s27676
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot Around.LinkFileList
+c000000004ABB6F3C0000000000000299
+t1253797692
+s665
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o
+t1253797694
+s44556
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o
+t2
+s0
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o
+t1253797694
+s6684
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent
+t1253797695
+s336
+
+N/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m
+c000000004AAB09780000000000000167
+t1252723064
+s359
+i<UIKit/UIKit.h>
+
+N/Users/Riley/Library/MobileDevice/Provisioning Profiles/27B53AF4-16E5-4A12-A8A8-A2CE1EA412E8.mobileprovision
+c000000004AAD55390000000000001C01
+t1252873529
+s7169
+
+N/var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch.gch
+t1253797694
+s7700664
+
+NShoot_Around-Info.plist
+c000000004AB9569B00000000000003AB
+t1253660315
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies275490492#275490492#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCodeSign "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app"
+r0
+
+CCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s275490494.867448
+e275490495.008607
+r1
+xCompileC
+xbuild/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m275490494#275490495#0(0"0(0#0#87"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m4300882208#2191"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-generated-files.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-own-target-headers.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-all-target-headers.hmap" -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-project-headers.hmap" "-F/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/include" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources/armv6" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources" -include /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch -c "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/MyScrollView.m" -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/MyScrollView.o"0#
+
+CCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s275490494.734477
+e275490494.867354
+r1
+xCompileC
+xbuild/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m275490494#275490494#0(0"0(0#0#98"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m4300882208#2213"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-generated-files.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-own-target-headers.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-all-target-headers.hmap" -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-project-headers.hmap" "-F/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/include" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources/armv6" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources" -include /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch -c "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundAppDelegate.m" -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundAppDelegate.o"0#
+
+CCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s275490494.822814
+e275490494.920537
+r0
+xCompileC
+xbuild/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController viewDidLoad]':
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:59: warning: passing argument 2 of 'AudioServicesCreateSystemSoundID' from incompatible pointer type
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: At top level:
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:119: error: expected '=', ',', ';', 'asm' or '__attribute__' before '-' token
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController openPreview:]':
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:122: error: 'button' undeclared (first use in this function)
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:122: error: (Each undeclared identifier is reported only once
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:122: error: for each function it appears in.)
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:123: error: 'b11' undeclared (first use in this function)
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController shoot:]':
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:151: warning: passing argument 1 of 'AudioServicesPlaySystemSound' makes integer from pointer without a cast
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController rapidFire:]':
+o/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:185: warning: passing argument 1 of 'AudioServicesPlaySystemSound' makes integer from pointer without a cast
+lSLF07#2@109"Compile /Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490494#275490494#0(2192"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController viewDidLoad]':/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:59: warning: passing argument 2 of 'AudioServicesCreateSystemSoundID' from incompatible pointer type/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: At top level:/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:119: error: expected '=', ',', ';', 'asm' or '__attribute__' before '-' token/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController openPreview:]':/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:122: error: 'button' undeclared (first use in this function)/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:122: error: (Each undeclared identifier is reported only once/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:122: error: for each function it appears in.)/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:123: error: 'b11' undeclared (first use in this function)/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController shoot:]':/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:151: warning: passing argument 1 of 'AudioServicesPlaySystemSound' makes integer from pointer without a cast/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m: In function '-[Shoot_AroundViewController rapidFire:]':/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m:185: warning: passing argument 1 of 'AudioServicesPlaySystemSound' makes integer from pointer without a cast7(22@87"Passing argument 2 of 'AudioServicesCreateSystemSoundID' from incompatible pointer type275490494#160#203#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#59#0#59#0#56"passing argument * of '*' from incompatible pointer type0(23@13"At top level:275490494#363#117#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#0#0#0#0#0"0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '-' token275490494#480#180#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#119#0#119#0#19"expected * before *0(4@48"'button' undeclared (first use in this function)275490494#821#163#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#122#0#122#0#43"'*' undeclared (first use in this function)0(4@45"'b11' undeclared (first use in this function)275490494#1296#160#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#123#0#123#0#43"'*' undeclared (first use in this function)0(22@94"Passing argument 1 of 'AudioServicesPlaySystemSound' makes integer from pointer without a cast275490494#1611#211#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#151#0#151#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@94"Passing argument 1 of 'AudioServicesPlaySystemSound' makes integer from pointer without a cast275490494#1981#211#0(6@101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m275490492#185#0#185#0#67"passing argument * of '*' makes integer from pointer without a cast0(0#0#101"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m4300882208#2219"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-generated-files.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-own-target-headers.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-all-target-headers.hmap" -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-project-headers.hmap" "-F/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/include" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources/armv6" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources" -include /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch -c "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Classes/Shoot_AroundViewController.m" -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/Shoot_AroundViewController.o"1#
+
+CCompileC "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s275490494.733290
+e275490494.822718
+r1
+xCompileC
+xbuild/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m275490494#275490494#0(0"0(0#0#71"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m4300882208#2167"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-generated-files.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-own-target-headers.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-all-target-headers.hmap" -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-project-headers.hmap" "-F/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/include" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources/armv6" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources" -include /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch -c "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/main.m" -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib"
+s275490492.355341
+e275490492.805524
+r1
+xCompileXIB
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib275490492#275490492#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#79"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib4300882208#557"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MainWindow.nib" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MainWindow.xib"0#
+
+CCompileXIB "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib"
+s275490492.355994
+e275490493.282526
+r1
+xCompileXIB
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib
+lSLF07#2@41"CompileXIB Shoot_AroundViewController.xib275490492#275490493#0(0"0(0#0#95"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib4300882208#589"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot_AroundViewController.nib" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_AroundViewController.xib"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/AButton.png" AButton.png
+s275490493.282620
+e275490493.329214
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/AButton.png
+xAButton.png
+lSLF07#2@77"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/AButton.png" AButton.png275490493#275490493#0(0"0(0#0#76"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/AButton.png4300882208#653"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/AButton.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/AButton.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/BButton.png" BButton.png
+s275490493.298636
+e275490493.331352
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/BButton.png
+xBButton.png
+lSLF07#2@77"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/BButton.png" BButton.png275490493#275490493#0(0"0(0#0#76"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/BButton.png4300882208#653"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/BButton.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/BButton.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Crosshair.png" Crosshair.png
+s275490493.381318
+e275490493.436406
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Crosshair.png
+xCrosshair.png
+lSLF07#2@81"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/Crosshair.png" Crosshair.png275490493#275490493#0(0"0(0#0#78"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Crosshair.png4300882208#657"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Crosshair.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Crosshair.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Default.png" Default.png
+s275490493.436513
+e275490494.107157
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Default.png
+xDefault.png
+lSLF07#2@77"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/Default.png" Default.png275490493#275490494#0(0"0(0#0#76"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Default.png4300882208#653"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Default.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Default.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Fire.png" Fire.png
+s275490493.515529
+e275490493.563936
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Fire.png
+xFire.png
+lSLF07#2@71"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/Fire.png" Fire.png275490493#275490493#0(0"0(0#0#73"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Fire.png4300882208#647"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Fire.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Fire.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Frame.png" Frame.png
+s275490492.805641
+e275490493.225553
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Frame.png
+xFrame.png
+lSLF07#2@73"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/Frame.png" Frame.png275490492#275490493#0(0"0(0#0#74"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Frame.png7957695015157983232#649"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Frame.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Frame.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameGreen.png" FrameGreen.png
+s275490493.564024
+e275490493.651808
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameGreen.png
+xFrameGreen.png
+lSLF07#2@83"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/FrameGreen.png" FrameGreen.png275490493#275490493#0(0"0(0#0#79"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameGreen.png4300882208#659"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameGreen.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameGreen.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameLandscape.png" FrameLandscape.png
+s275490493.433775
+e275490493.514622
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameLandscape.png
+xFrameLandscape.png
+lSLF07#2@91"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/FrameLandscape.png" FrameLandscape.png275490493#275490493#0(0"0(0#0#83"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameLandscape.png4300882208#667"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameLandscape.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameLandscape.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameRed.png" FrameRed.png
+s275490493.651900
+e275490493.700607
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameRed.png
+xFrameRed.png
+lSLF07#2@79"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/FrameRed.png" FrameRed.png275490493#275490493#0(0"0(0#0#77"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameRed.png4300882208#655"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/FrameRed.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/FrameRed.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Icon.png" Icon.png
+s275490493.329305
+e275490493.381209
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Icon.png
+xIcon.png
+lSLF07#2@71"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/Icon.png" Icon.png275490493#275490493#0(0"0(0#0#73"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Icon.png4300882208#647"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Icon.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Icon.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileLeft.png" MissileLeft.png
+s275490493.262230
+e275490493.298538
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileLeft.png
+xMissileLeft.png
+lSLF07#2@85"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/MissileLeft.png" MissileLeft.png275490493#275490493#0(0"0(0#0#80"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileLeft.png4300882208#661"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileLeft.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileLeft.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileRight.png" MissileRight.png
+s275490493.225646
+e275490493.262137
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileRight.png
+xMissileRight.png
+lSLF07#2@87"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/MissileRight.png" MissileRight.png275490493#275490493#0(0"0(0#0#81"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileRight.png4300882208#663"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/MissileRight.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/MissileRight.png"0#
+
+CCopyPNGFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around Title Screen.png" "Shoot Around Title Screen.png"
+s275490493.331441
+e275490493.433663
+r1
+xCopyPNGFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around Title Screen.png
+xShoot Around Title Screen.png
+lSLF07#2@115"CopyPNGFile "build/Release-iphoneos/Shoot Around.app/Shoot Around Title Screen.png" "Shoot Around Title Screen.png"275490493#275490493#0(0"0(0#0#94"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot Around Title Screen.png4300882208#689"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot Around Title Screen.png" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around Title Screen.png"0#
+
+CCopyPlistFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Entitlements.plist" Entitlements.plist
+s275490493.700700
+e275490493.960507
+r1
+xCopyPlistFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Entitlements.plist
+xEntitlements.plist
+lSLF07#2@23"Copy Entitlements.plist275490493#275490493#0(0"0(0#0#83"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Entitlements.plist4300882208#442"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Entitlements.plist --outdir "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app"0#
+
+CCpResource "build/Release-iphoneos/Shoot Around.app/Laser1.caf" Laser1.caf
+s275490493.514712
+e275490493.547584
+r1
+xCpResource
+xbuild/Release-iphoneos/Shoot Around.app/Laser1.caf
+xLaser1.caf
+lSLF07#2@15"Copy Laser1.caf275490493#275490493#0(0"0(0#0#75"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Laser1.caf4300882208#552"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Laser1.caf" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app"0#
+
+CCpResource "build/Release-iphoneos/Shoot Around.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+s275490492.300467
+e275490492.355258
+r1
+xCpResource
+xbuild/Release-iphoneos/Shoot Around.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist275490492#275490492#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist7886488383309048832#564"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app"0#
+
+CGenerateDSYMFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app.dSYM" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around"
+r0
+
+CLd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Shoot Around" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Info.plist" Shoot_Around-Info.plist
+s275490492.328577
+e275490492.337655
+r1
+xProcessInfoPlistFile
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Info.plist
+xShoot_Around-Info.plist
+lSLF07#2@31"Process Shoot_Around-Info.plist275490492#275490492#0(0"0(0#0#88"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_Around-Info.plist4300882208#700"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Shoot_Around-Info.plist -genpkginfo "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/ResourceRules.plist" -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/Info.plist"0#
+
+CProcessPCH /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch.gch Shoot_Around_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s275490494.107366
+e275490494.733160
+r1
+xProcessPCH
+x/var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch.gch
+xShoot_Around_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Shoot_Around_Prefix.pch275490494#275490494#0(0"0(0#0#88"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_Around_Prefix.pch4300882208#2030"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-generated-files.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-own-target-headers.hmap" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-all-target-headers.hmap" -iquote "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around-project-headers.hmap" "-F/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/include" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources/armv6" "-I/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/DerivedSources" -c "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/Shoot_Around_Prefix.pch" -o /var/folders/wi/wiGKBTwPHM4X4ZAEGUuDt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Shoot_Around_Prefix-foeahbrdlmfagtgwegznzbejhzrx/Shoot_Around_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Riley/Library/MobileDevice/Provisioning Profiles/27B53AF4-16E5-4A12-A8A8-A2CE1EA412E8.mobileprovision" "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision"
+s275490495.008710
+e275490495.010045
+r1
+xProcessProductPackaging
+x/Users/Riley/Library/MobileDevice/Provisioning Profiles/27B53AF4-16E5-4A12-A8A8-A2CE1EA412E8.mobileprovision
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/Riley/Library/MobileDevice/Provisioning Profiles/27B53AF4-16E5-4A12-A8A8-A2CE1EA412E8.mobileprovision" "build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision"275490495#275490495#0(0"0(0#0#129"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision4300882208#486"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Riley/Library/MobileDevice/Provisioning Profiles/27B53AF4-16E5-4A12-A8A8-A2CE1EA412E8.mobileprovision" -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent"
+s275490495.010111
+e275490495.034080
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+x/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent
+lSLF07#2@194"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist "build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent"275490495#275490495#0(0"0(0#0#144"/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent4300882208#505"    cd "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Shoot Around.build/Release-iphoneos/Shoot Around.build/Shoot Around.xcent"0#
+
+CTouch "/Users/Riley/Documents/XCode/App Store Applications/Shoot Around/build/Release-iphoneos/Shoot Around.app"
+r0
+
